@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="ExerciceFinal" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\opt\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Core\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Concurrent\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Xml\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5OpenGL\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Test\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Network\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5X11Extras\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5LinguistTools\;CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Sql\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\;CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ExerciceFinal">
+         <Option output="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug/ExerciceFinal" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DQT_CORE_LIB" />
+            <Add option="-DQT_CONCURRENT_LIB" />
+            <Add option="-DQT_WIDGETS_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_XML_LIB" />
+            <Add option="-DQT_TESTLIB_LIB" />
+            <Add option="-DITK_IO_FACTORY_REGISTER_MANAGER" />
+            <Add option="-DvtkDomainsChemistry_AUTOINIT=1(vtkDomainsChemistryOpenGL2)" />
+            <Add option="-DvtkIOExport_AUTOINIT=1(vtkIOExportOpenGL2)" />
+            <Add option="-DvtkRenderingContext2D_AUTOINIT=1(vtkRenderingContextOpenGL2)" />
+            <Add option="-DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)" />
+            <Add option="-DvtkRenderingOpenGL2_AUTOINIT=1(vtkRenderingGL2PSOpenGL2)" />
+            <Add option="-DvtkRenderingVolume_AUTOINIT=1(vtkRenderingVolumeOpenGL2)" />
+            <Add option="-DQT_SQL_LIB" />
+            <Add option="-DQT_TESTCASE_BUILDDIR=&quot;/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug&quot;" />
+            <Add directory="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal" />
+            <Add directory="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug" />
+            <Add directory="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug/ITKFactoryRegistration" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/./mkspecs/linux-g++" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtConcurrent" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtCore" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtGui" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtSql" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtTest" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtWidgets" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtXml" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/ExternalLibs/itk/include" />
+            <Add directory="/usr/local/ExternalLibs/itk/include/ITK-4.13" />
+            <Add directory="/usr/local/ExternalLibs/vtk/include" />
+            <Add directory="/usr/local/ExternalLibs/vtk/include/vtk-8.1" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExerciceFinal" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ExerciceFinal/fast">
+         <Option output="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug/ExerciceFinal" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DQT_CORE_LIB" />
+            <Add option="-DQT_CONCURRENT_LIB" />
+            <Add option="-DQT_WIDGETS_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_XML_LIB" />
+            <Add option="-DQT_TESTLIB_LIB" />
+            <Add option="-DITK_IO_FACTORY_REGISTER_MANAGER" />
+            <Add option="-DvtkDomainsChemistry_AUTOINIT=1(vtkDomainsChemistryOpenGL2)" />
+            <Add option="-DvtkIOExport_AUTOINIT=1(vtkIOExportOpenGL2)" />
+            <Add option="-DvtkRenderingContext2D_AUTOINIT=1(vtkRenderingContextOpenGL2)" />
+            <Add option="-DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)" />
+            <Add option="-DvtkRenderingOpenGL2_AUTOINIT=1(vtkRenderingGL2PSOpenGL2)" />
+            <Add option="-DvtkRenderingVolume_AUTOINIT=1(vtkRenderingVolumeOpenGL2)" />
+            <Add option="-DQT_SQL_LIB" />
+            <Add option="-DQT_TESTCASE_BUILDDIR=&quot;/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug&quot;" />
+            <Add directory="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal" />
+            <Add directory="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug" />
+            <Add directory="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug/ITKFactoryRegistration" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/./mkspecs/linux-g++" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtConcurrent" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtCore" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtGui" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtSql" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtTest" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtWidgets" />
+            <Add directory="/opt/Qt5.10.1/5.10.1/gcc_64/include/QtXml" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/ExternalLibs/itk/include" />
+            <Add directory="/usr/local/ExternalLibs/itk/include/ITK-4.13" />
+            <Add directory="/usr/local/ExternalLibs/vtk/include" />
+            <Add directory="/usr/local/ExternalLibs/vtk/include/vtk-8.1" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExerciceFinal/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/joseph/Documents/C++/Imagerie\ Médicale\ en\ C++/SqueletteExerciceFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/ApplicationData.cpp">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/ApplicationData.h">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/View2D.cpp">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/View2D.h">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/View2D.ui">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/View3D.cpp">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/View3D.h">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/View3D.ui">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/Widget.cpp">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/Widget.h">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/Widget.ui">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/main.cpp">
+         <Option target="ExerciceFinal"/>
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Concurrent/Qt5ConcurrentConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Concurrent\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Concurrent/Qt5ConcurrentConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Concurrent\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Xml\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Xml/Qt5XmlConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Xml\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5OpenGL/Qt5OpenGLConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5OpenGL\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5OpenGL/Qt5OpenGLConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5OpenGL\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Test\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Test/Qt5TestConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Test\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Test/Qt5TestConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Test\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5X11Extras/Qt5X11ExtrasConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5X11Extras\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5X11Extras/Qt5X11ExtrasConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5X11Extras\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5LinguistTools\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5LinguistTools\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5LinguistTools\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Sql\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Sql\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Sql\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Sql/Qt5Sql_QMYSQLDriverPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Sql\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../opt/Qt5.10.1/5.10.1/gcc_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\Qt5.10.1\5.10.1\gcc_64\lib\cmake\Qt5Sql\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/ITKConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/ITKConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/ITKTargets.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/ITKTargets-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/ITKModuleAPI.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/UseITK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/itkImageIOFactoryRegisterManager.h.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/itkTransformIOFactoryRegisterManager.h.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKDoubleConversion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKKWIML.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKKWSys.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKVNL.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKVNLInstantiation.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKCommon.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKFiniteDifference.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageFilterBase.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKCurvatureFlow.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageAdaptors.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKNetlib.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKStatistics.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKTransform.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageFunction.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageGrid.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKAnisotropicSmoothing.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKLabelMap.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageCompose.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKMesh.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKZLIB.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKMetaIO.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKSpatialObjects.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageStatistics.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKPath.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageIntensity.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKThresholding.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKConnectedComponents.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKMathematicalMorphology.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKBinaryMathematicalMorphology.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageLabel.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKNarrowBand.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKDistanceMap.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKQuadEdgeMesh.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKFastMarching.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOImageBase.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageCompare.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKSmoothing.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageGradient.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageSources.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageFeature.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKOptimizers.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKSignedDistanceFunction.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKLevelSets.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKAntiAlias.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKPolynomials.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKBiasCorrection.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKBioCell.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKClassifiers.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKColormap.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKFFT.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKConvolution.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKDICOMParser.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKDeconvolution.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKDeformableMesh.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKDenoising.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKDiffusionTensorImage.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKDisplacementField.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKEigen.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKExpat.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOXML.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOSpatialObjects.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKRegistrationCommon.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKFEM.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKPDEDeformableRegistration.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKFEMRegistration.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGDCM.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKNIFTI.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGIFTI.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGPUCommon.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGPUFiniteDifference.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGPUAnisotropicSmoothing.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGPUImageFilterBase.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGPURegistrationCommon.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGPUPDEDeformableRegistration.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGPUSmoothing.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGPUThresholding.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKGoogleTest.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKHDF5.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOBMP.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOBioRad.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOBruker.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOCSV.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOGDCM.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOIPL.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOGE.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOGIPL.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOHDF5.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKJPEG.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOJPEG.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKTIFF.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOTIFF.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOLSM.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKMINC.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOMINC.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOMRC.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOMesh.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOMeta.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIONIFTI.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKNrrdIO.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIONRRD.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKPNG.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOPNG.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIORAW.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOSiemens.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOStimulate.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKTransformFactory.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOTransformBase.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOTransformHDF5.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOTransformInsightLegacy.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOTransformMatlab.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIOVTK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageFusion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKImageNoise.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKIntegratedTest.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKKLMRegionGrowing.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKLIBLBFGS.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKLabelVoting.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKLevelSetsv4.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKMarkovRandomFieldsClassifiers.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKOptimizersv4.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKMetricsv4.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKNeuralNetworks.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKQuadEdgeMeshFiltering.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKRegionGrowing.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKRegistrationMethodsv4.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKSpatialFunction.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKTestKernel.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKVTK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKVideoCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKVideoFiltering.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKVideoIO.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKVoronoi.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/itk/lib/cmake/ITK-4.13/Modules/ITKWatersheds.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\itk\lib\cmake\ITK-4.13\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/VTKConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/VTKConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/VTKTargets.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/VTKTargets-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/vtkModuleAPI.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/UseVTK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkkwiml.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtksys.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkCommonCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkCommonMath.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkCommonMisc.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkCommonSystem.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkCommonTransforms.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkCommonDataModel.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkCommonColor.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkCommonExecutionModel.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkCommonComputationalGeometry.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersGeneral.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkImagingCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkImagingFourier.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkalglib.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersStatistics.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersExtraction.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkInfovisCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersGeometry.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersSources.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkzlib.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkfreetype.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingFreeType.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingContext2D.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkChartsCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkDICOMParser.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtklz4.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOLegacy.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkexpat.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOXMLParser.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkDomainsChemistry.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkUtilitiesEncodeString.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkglew.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingOpenGL2.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkDomainsChemistryOpenGL2.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOXML.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkUtilitiesHashSource.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkParallelCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersAMR.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersFlowPaths.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersGeneric.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkImagingSources.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersHybrid.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersHyperTree.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkImagingGeneral.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersImaging.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersModeling.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersParallel.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersParallelImaging.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersPoints.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersProgrammable.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersSMP.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersSelection.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersTexture.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersTopology.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkverdict.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkFiltersVerdict.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkInteractionStyle.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkGUISupportQt.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtksqlite.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOSQL.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkGUISupportQtSQL.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkMetaIO.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkjpeg.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkpng.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtktiff.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOImage.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkImagingHybrid.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkInfovisLayout.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkImagingColor.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingAnnotation.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingVolume.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkInteractionWidgets.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkViewsCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtklibproj4.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkGeovisCore.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkhdf5.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOAMR.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOEnSight.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtknetcdf.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkexodusII.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOExodus.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkgl2ps.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingGL2PSOpenGL2.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtklibharu.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOExport.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOExportOpenGL2.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOGeometry.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOImport.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtklibxml2.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOInfovis.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOLSDyna.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOMINC.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkoggtheora.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOMovie.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtknetcdfcpp.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIONetCDF.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOPLY.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkjsoncpp.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOParallel.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOParallelXML.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOTecplotTable.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkIOVideo.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkImagingMath.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkImagingMorphological.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkImagingStatistics.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkImagingStencil.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkInteractionImage.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingContextOpenGL2.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingImage.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingLOD.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingLabel.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingQt.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkRenderingVolumeOpenGL2.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkViewsContext2D.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkViewsInfovis.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+      <Unit filename="/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/../../../../../../usr/local/ExternalLibs/vtk/lib/cmake/vtk-8.1/Modules/vtkViewsQt.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\ExternalLibs\vtk\lib\cmake\vtk-8.1\Modules\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

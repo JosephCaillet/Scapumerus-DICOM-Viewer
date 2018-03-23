@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug

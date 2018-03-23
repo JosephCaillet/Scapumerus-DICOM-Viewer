@@ -1,0 +1,14 @@
+-I/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug/ITKFactoryRegistration
+-I/usr/local/ExternalLibs/itk/include/ITK-4.13
+-I/usr/local/ExternalLibs/vtk/include/vtk-8.1
+-I/usr/include
+-DITK_IO_FACTORY_REGISTER_MANAGER
+-DvtkDomainsChemistry_AUTOINIT=1(vtkDomainsChemistryOpenGL2)
+-DvtkIOExport_AUTOINIT=1(vtkIOExportOpenGL2)
+-DvtkRenderingContext2D_AUTOINIT=1(vtkRenderingContextOpenGL2)
+-DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)
+-DvtkRenderingOpenGL2_AUTOINIT=1(vtkRenderingGL2PSOpenGL2)
+-DvtkRenderingVolume_AUTOINIT=1(vtkRenderingVolumeOpenGL2)
+-o
+/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/cmake-build-debug/moc_ApplicationData.cpp
+/home/joseph/Documents/C++/Imagerie Médicale en C++/SqueletteExerciceFinal/ApplicationData.h
